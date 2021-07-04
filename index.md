@@ -1,6 +1,7 @@
 
 
 
+
 * software development
 * content writing
 * problem solving
