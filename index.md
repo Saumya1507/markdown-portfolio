@@ -3,20 +3,22 @@ layout: default
 ---
 
 {% include 01-name.md %}
+
+<br>
+
+{% include 02-image.md %}
+* software development
+* content writing
+* problem solving
+
+<br>
+
+{% include 03-links.md %}
 - Learning
 - writing
 - working
 - developing
 
-<br>
-* software development
-* content writing
-* problem solving
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
 
 <br>
 
