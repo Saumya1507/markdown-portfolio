@@ -1,11 +1,7 @@
 
-
-
-
 * software development
 * content writing
 * problem solving
-<br>
 
 - Learning
 - writing
